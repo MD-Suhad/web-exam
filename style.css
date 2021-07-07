@@ -1,0 +1,122 @@
+section nav:hover{
+  background-color: black;
+}
+
+.row{
+  width: 95%;
+  overflow: hidden;
+  margin: 0px auto;
+  color:darkcyan;
+  }
+  .col-1{
+  width: 8.33%;
+  float: left;
+  background-color: burlywood;
+  }
+  
+  .col-2{
+  
+  width: 16.16%;
+  float: left;
+  background-color:rgb(40, 58, 9);
+  border:1px solid black;
+  }
+  .col-3{
+  width: 50%;
+  float: left;
+  background-color:lightcoral;
+  color:black;
+  list-style-type: none;
+  }
+.col-3 a{
+  text-decoration:none;
+  font-size: 20px;
+}
+  
+  .side-nav div{
+  
+  display: black;
+  padding: 25px;
+  border: 1px solid #000000;
+  text-align: center;
+  
+  }
+  .add-link{
+  
+  width: 100%;
+  text-align: center;
+  border: 1px solid #000000;
+  padding: 5px 0px;
+  }
+  
+  .header-content{
+  
+  width: 100%;
+  text-align: center;
+  
+  display: block;
+  padding: 25px 0px;
+  border: 1px solid #000000;
+  
+  }
+  .faculty{
+  width: 100%;
+  border: 1px solid #000000;
+  position: relative;
+  height: 137px;
+  }
+  .faculty p{
+  text-align: center;
+  }
+  .faculty ul{
+  
+  position: absolute;
+  top: 25px;
+  left:50%;
+  margin-left:-40px;
+  
+  }
+  
+  .content-image {
+  
+  width: 100%;
+  border:1px solid #000000;
+  
+  
+  }
+  
+  .content-image img{
+  
+  width: 100%;
+  
+  }
+  
+  .content-text{
+  
+  width: 52.5%;
+  padding: 57px;
+  text-align: center;
+  border: 1px solid #000000;
+  }
+  .nav ul{
+  width: 100%;
+  list-style: none;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid #000000;
+  }
+  .nav ul li{
+  
+  width:32%;
+  display: inline-block;
+  border-left: 1px solid #000000;
+  padding: 20px 0px;
+  text-align: center;
+  }
+  footer{
+  width: 75%;
+  border: 1px solid #000000;
+  padding: 10px 0px;
+  text-align: center;
+  }
